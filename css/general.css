@@ -147,7 +147,7 @@ font-size: 40px;
 font-family: 'lato', sans-serif;
 font-weight: 100;
 text-align: center;
-padding-top: 4rem;
+padding-top: 15rem;
 color: white;
 letter-spacing: 3px;
 word-spacing: 3px;
@@ -733,7 +733,7 @@ margin: 0 auto;
 }
 
 #about img {
-width:250px;
+width:80%;
 margin: 0 auto;
 text-align: center;
 }
@@ -873,6 +873,26 @@ width: 40px
 .nav-bottom .social-nav a {
 padding:0 10px;
 }
+.banner {
+background: url("../images/hello-page-image.jpg")  no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+width: 100%;
+height: 48rem;
+}
+    
+.banner-content h1 {
+font-size: 100px;
+font-family: 'Bebas', sans-serif;
+font-weight: 100;
+text-align: center;
+color: white;
+letter-spacing: 3px;
+word-spacing: 2px;
+margin-top:30px;
+}
 
 @media only screen and (min-width: 35em) {
     
@@ -966,26 +986,7 @@ header ul li a:hover {
 color: #ccc;
 }
     
-.banner {
-background: url("../images/hello-page-image.jpg")  no-repeat center center fixed;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-width: 100%;
-height: 48rem;
-}
-    
-.banner-content h1 {
-font-size: 100px;
-font-family: 'Bebas', sans-serif;
-font-weight: 100;
-text-align: center;
-color: white;
-letter-spacing: 3px;
-word-spacing: 2px;
-margin-top:30px;
-}
+
  
 #about {
 width:100%;
@@ -1168,6 +1169,7 @@ word-spacing: 2px;
 }
 
 #about {
+ min-height: 3p00px;
  height: 800px;   
 }   
     
