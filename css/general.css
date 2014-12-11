@@ -570,7 +570,7 @@ p{
 }
 	
 .text-404 a:hover{
-	text-decoration:line-through;
+	text-decoration:non;
 }
 
 
