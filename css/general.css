@@ -988,7 +988,7 @@ height: 48rem;
     
 .banner-content h1 {
 font-size: 100px;
-font-family: 'lato', sans-serif;
+font-family: 'Bebas', sans-serif;
 font-weight: 100;
 text-align: center;
 color: white;
@@ -1005,7 +1005,7 @@ background:white;
     
 #about .me {
 color: #000;
-font-family: 'lato',sans-serif;
+font-family: 'helvetica',sans-serif;
 line-height: 24px;
 font-weight: 400;
 margin-top: 0;
@@ -1017,7 +1017,7 @@ word-spacing: 2px;
 
 .focus-section p {
 margin: 0 auto;
-font-family: 'lato',sans-serif;
+font-family: 'helvetica',sans-serif;
 width: 90%;
 text-align: center;
 font-size: 14px;
@@ -1026,7 +1026,7 @@ line-height: 22px;
 }
 
 .nav {
-font-family: 'lato', sans-serif;
+font-family: 'helvetica', sans-serif;
 width: 90%;
 margin-top: -6px;
 position:relative;
@@ -1076,7 +1076,7 @@ text-align: center;
     
 .focus-section p {
 margin: 0 auto;
-font-family: 'lato',sans-serif;
+font-family: 'helvetica',sans-serif;
 width: 70%;
 text-align: center;
 font-size: 14px;
@@ -1086,7 +1086,7 @@ line-height: 22px;
     
 #about .me {
 color: #000;
-font-family: 'lato',sans-serif;
+font-family: 'helvetica',sans-serif;
 line-height: 24px;
 font-weight: 400;
 margin-top: 0;
@@ -1124,7 +1124,7 @@ color: black;
     
 #about .me {
 color: #000;
-font-family: 'lato',sans-serif;
+font-family: 'helvetica',sans-serif;
 line-height: 24px;
 font-weight: 400;
 margin-top: 0;
@@ -1166,7 +1166,7 @@ text-decoration: none;
 }
     
 #about .me {
-font-family: 'lato',sans-serif;
+font-family: 'helvetica',sans-serif;
 color: #000;
 line-height: 24px;
 font-weight: 400;
